@@ -12,6 +12,7 @@
         int verde=(int)(Math.random()*255);
         int azul=(int)(Math.random()*255);
         String color="rgb("+rojo+", "+verde+", "+azul+")";
+        
         %>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
